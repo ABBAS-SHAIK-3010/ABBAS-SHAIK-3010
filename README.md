@@ -18,15 +18,16 @@ I have done my Internship at SHIPLA STEEL AND POWER LTD as [IT Intern](https://w
 
 My Projects-
 
-1.[Simple Text Editor](https://github.com/ABBAS-SHAIK-3010/Simple_Text_Editor)
+1.[Bank Management System](http://github.com/ABBAS-SHAIK-3010/Bank-management-System)
 
-2.[Online Train Reservation System](https://github.com/ABBAS-SHAIK-3010/OIBSIP_JAVA_1-Online-Train-Reservation-System)
+2.[Simple Text Editor](https://github.com/ABBAS-SHAIK-3010/Simple_Text_Editor)
 
-3.[Number Guessing Game](https://github.com/ABBAS-SHAIK-3010/OIBSIP_JAVA_2-Number-Guessing-Game)
+3.[Online Train Reservation System](https://github.com/ABBAS-SHAIK-3010/OIBSIP_JAVA_1-Online-Train-Reservation-System)
+
+4.[Number Guessing Game](https://github.com/ABBAS-SHAIK-3010/OIBSIP_JAVA_2-Number-Guessing-Game)
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [abbasshaik3010@gmail.com](mailto:abbasshaik3010@gmail.com)
-* 🚀  I'm currently working on [Bank Management System](http://github.com/ABBAS-SHAIK-3010/Bank-management-System)
 * 🧠  I'm currently learning Java Development, Python , MySQL
 
 <p align="left">
